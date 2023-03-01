@@ -1,0 +1,15 @@
+/Users/lysik/code/C#/obj/Debug/net7.0/C#.csproj.AssemblyReference.cache
+/Users/lysik/code/C#/obj/Debug/net7.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lysik/code/C#/obj/Debug/net7.0/C#.AssemblyInfoInputs.cache
+/Users/lysik/code/C#/obj/Debug/net7.0/C#.AssemblyInfo.cs
+/Users/lysik/code/C#/obj/Debug/net7.0/C#.csproj.CoreCompileInputs.cache
+/Users/lysik/code/C#/bin/Debug/net7.0/C#
+/Users/lysik/code/C#/bin/Debug/net7.0/C#.deps.json
+/Users/lysik/code/C#/bin/Debug/net7.0/C#.runtimeconfig.json
+/Users/lysik/code/C#/bin/Debug/net7.0/C#.dll
+/Users/lysik/code/C#/bin/Debug/net7.0/C#.pdb
+/Users/lysik/code/C#/obj/Debug/net7.0/C#.dll
+/Users/lysik/code/C#/obj/Debug/net7.0/refint/C#.dll
+/Users/lysik/code/C#/obj/Debug/net7.0/C#.pdb
+/Users/lysik/code/C#/obj/Debug/net7.0/C#.genruntimeconfig.cache
+/Users/lysik/code/C#/obj/Debug/net7.0/ref/C#.dll
